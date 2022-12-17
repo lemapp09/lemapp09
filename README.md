@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lemapp09
-- 👀 I’m interested in Cosplay. I have experience with Paper Crafts, sewing, beading, and more.
-- 🌱 I’m currently learning SwiftUI (Recently I worked with Unity Game Engine and Python)
-= 👋 I have a background in graphic design with experience on Photoshop and Illustrator. I've done some work with Blender.
-- 💞️ I’m looking to collaborate on what comes my way. Besides graohics, I'm skilled with research and organization. 
+- 👀 I’m interested in C# and Unity3D Game Engine. in my free time I like cosplay, paper crafts, sewing, beading, and more.
+- 🌱 I’m currently I worked with Unity Game Engine. ( I also have experience with SwiftUI and Python)
+= 👋 I am both a programmer and graphic designer. I work with Unity3D, Rider and Git. For graphics I use Photoshop, Blender and more.
+- 💞️ I’m looking to work with an organization that does Unity's Digital Twins where I can showcase a full range of my skill sets. 
 - 📫 How to reach me lemapp09@gmail.com
 
 <!---
